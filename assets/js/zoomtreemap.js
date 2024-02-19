@@ -56,9 +56,12 @@ function createTreemap(data) {
         .call(render, root);
 
     function render(group, root) {
+        console.log(root); // 查看root对象
+        console.log(root.children); // 查看root的children属性
+
         const node = group
             .selectAll("g")
-            .data(root.children.concat(root))
+            .data(root.children ? root.children.concat(root) : [root]) // 如果root.children未定义，则使用[root]
             .join("g");
 
         node.filter(d => d === root ? d.parent : d.children)
