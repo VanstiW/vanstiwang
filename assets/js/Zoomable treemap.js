@@ -2,7 +2,7 @@
 async function loadAndCreateTreemap() {
     try {
         // 加载数据
-        const response = await fetch('assets/js/Treemap_Donor.json');
+        const response = await fetch('assets/js/TreeMap_Donor.json');
         const data = await response.json();
 
         // 创建图表
