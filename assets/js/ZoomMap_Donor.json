@@ -14,7 +14,7 @@
                                             "Count": 20632
                                         }
                                     ],
-                                    "Culture": "None"
+                                    "Culture": "Blank"
                                 }
                             ],
                             "ObjectName": "Print"
@@ -28,7 +28,7 @@
                                             "Count": 8347
                                         }
                                     ],
-                                    "Culture": "None"
+                                    "Culture": "Blank"
                                 }
                             ],
                             "ObjectName": "Photograph"
@@ -42,7 +42,7 @@
                                             "Count": 2099
                                         }
                                     ],
-                                    "Culture": "None"
+                                    "Culture": "Blank"
                                 }
                             ],
                             "ObjectName": "Baseball card, photograph"
@@ -56,7 +56,7 @@
                                             "Count": 1667
                                         }
                                     ],
-                                    "Culture": "None"
+                                    "Culture": "Blank"
                                 }
                             ],
                             "ObjectName": "Baseball card, print"
@@ -70,7 +70,7 @@
                                             "Count": 1627
                                         }
                                     ],
-                                    "Culture": "None"
+                                    "Culture": "Blank"
                                 }
                             ],
                             "ObjectName": "Print; ephemera"
@@ -84,7 +84,7 @@
                                             "Count": 1222
                                         }
                                     ],
-                                    "Culture": "None"
+                                    "Culture": "Blank"
                                 }
                             ],
                             "ObjectName": "Baseball card"
@@ -98,7 +98,7 @@
                                             "Count": 949
                                         }
                                     ],
-                                    "Culture": "None"
+                                    "Culture": "Blank"
                                 }
                             ],
                             "ObjectName": "Stereograph"
@@ -112,7 +112,7 @@
                                             "Count": 641
                                         }
                                     ],
-                                    "Culture": "None"
+                                    "Culture": "Blank"
                                 }
                             ],
                             "ObjectName": "Trade card"
@@ -126,7 +126,7 @@
                                             "Count": 537
                                         }
                                     ],
-                                    "Culture": "None"
+                                    "Culture": "Blank"
                                 }
                             ],
                             "ObjectName": "Print baseball card"
@@ -140,7 +140,7 @@
                                             "Count": 426
                                         }
                                     ],
-                                    "Culture": "None"
+                                    "Culture": "Blank"
                                 }
                             ],
                             "ObjectName": "Print, baseball"
@@ -154,7 +154,7 @@
                                             "Count": 260
                                         }
                                     ],
-                                    "Culture": "None"
+                                    "Culture": "Blank"
                                 }
                             ],
                             "ObjectName": "Print, boxing"
@@ -168,7 +168,7 @@
                                             "Count": 155
                                         }
                                     ],
-                                    "Culture": "None"
+                                    "Culture": "Blank"
                                 }
                             ],
                             "ObjectName": "Football card"
@@ -182,7 +182,7 @@
                                             "Count": 48
                                         }
                                     ],
-                                    "Culture": "None"
+                                    "Culture": "Blank"
                                 }
                             ],
                             "ObjectName": "Photograph, baseball card"
@@ -196,7 +196,7 @@
                                             "Count": 33
                                         }
                                     ],
-                                    "Culture": "None"
+                                    "Culture": "Blank"
                                 }
                             ],
                             "ObjectName": "Photograph baseball card"
@@ -210,7 +210,7 @@
                                             "Count": 28
                                         }
                                     ],
-                                    "Culture": "None"
+                                    "Culture": "Blank"
                                 }
                             ],
                             "ObjectName": "Print, baseball card"
@@ -224,13 +224,24 @@
                                             "Count": 24
                                         }
                                     ],
-                                    "Culture": "None"
+                                    "Culture": "Blank"
                                 }
                             ],
                             "ObjectName": "Album card"
                         },
                         {
-                            "ObjectName": NaN
+                            "children": [
+                                {
+                                    "children": [
+                                        {
+                                            "DateRange": "1800-1999",
+                                            "Count": 19
+                                        }
+                                    ],
+                                    "Culture": "Blank"
+                                }
+                            ],
+                            "ObjectName": "Blank"
                         },
                         {
                             "children": [
@@ -241,7 +252,7 @@
                                             "Count": 10
                                         }
                                     ],
-                                    "Culture": "None"
+                                    "Culture": "Blank"
                                 }
                             ],
                             "ObjectName": "Baseball, print"
@@ -255,7 +266,7 @@
                                             "Count": 3
                                         }
                                     ],
-                                    "Culture": "None"
+                                    "Culture": "Blank"
                                 }
                             ],
                             "ObjectName": "Textile painting"
@@ -269,7 +280,7 @@
                                             "Count": 2
                                         }
                                     ],
-                                    "Culture": "None"
+                                    "Culture": "Blank"
                                 }
                             ],
                             "ObjectName": "Print ; facsimile"
@@ -757,7 +768,7 @@
                                             "Count": 1
                                         }
                                     ],
-                                    "Culture": "None"
+                                    "Culture": "Blank"
                                 }
                             ],
                             "ObjectName": "Undetermined closed shape"
@@ -1059,7 +1070,7 @@
                                             "Count": 1
                                         }
                                     ],
-                                    "Culture": "None"
+                                    "Culture": "Blank"
                                 }
                             ],
                             "ObjectName": "Undetermined shape"
@@ -1284,7 +1295,7 @@
                                             "Count": 5787
                                         }
                                     ],
-                                    "Culture": "None"
+                                    "Culture": "Blank"
                                 }
                             ],
                             "ObjectName": "Negative"
@@ -1298,7 +1309,7 @@
                                             "Count": 771
                                         }
                                     ],
-                                    "Culture": "None"
+                                    "Culture": "Blank"
                                 }
                             ],
                             "ObjectName": "Postcard"
@@ -1316,7 +1327,7 @@
                                             "Count": 385
                                         }
                                     ],
-                                    "Culture": "None"
+                                    "Culture": "Blank"
                                 }
                             ],
                             "ObjectName": "Books"
@@ -1330,7 +1341,7 @@
                                             "Count": 348
                                         }
                                     ],
-                                    "Culture": "None"
+                                    "Culture": "Blank"
                                 }
                             ],
                             "ObjectName": "Photograph"
@@ -1344,7 +1355,7 @@
                                             "Count": 100
                                         }
                                     ],
-                                    "Culture": "None"
+                                    "Culture": "Blank"
                                 }
                             ],
                             "ObjectName": "Ephemera"
@@ -1358,7 +1369,7 @@
                                             "Count": 93
                                         }
                                     ],
-                                    "Culture": "None"
+                                    "Culture": "Blank"
                                 }
                             ],
                             "ObjectName": "Transparency"
@@ -1372,7 +1383,7 @@
                                             "Count": 92
                                         }
                                     ],
-                                    "Culture": "None"
+                                    "Culture": "Blank"
                                 }
                             ],
                             "ObjectName": "Glass negative"
@@ -1386,7 +1397,7 @@
                                             "Count": 91
                                         }
                                     ],
-                                    "Culture": "None"
+                                    "Culture": "Blank"
                                 }
                             ],
                             "ObjectName": "Manuscript materials"
@@ -1400,7 +1411,7 @@
                                             "Count": 39
                                         }
                                     ],
-                                    "Culture": "None"
+                                    "Culture": "Blank"
                                 }
                             ],
                             "ObjectName": "Diary; Appointment book"
@@ -1414,7 +1425,7 @@
                                             "Count": 37
                                         }
                                     ],
-                                    "Culture": "None"
+                                    "Culture": "Blank"
                                 }
                             ],
                             "ObjectName": "Album"
@@ -1428,7 +1439,7 @@
                                             "Count": 34
                                         }
                                     ],
-                                    "Culture": "None"
+                                    "Culture": "Blank"
                                 }
                             ],
                             "ObjectName": "Letters; Correspondence"
@@ -1442,7 +1453,7 @@
                                             "Count": 23
                                         }
                                     ],
-                                    "Culture": "None"
+                                    "Culture": "Blank"
                                 }
                             ],
                             "ObjectName": "Drawing"
@@ -1456,7 +1467,7 @@
                                             "Count": 22
                                         }
                                     ],
-                                    "Culture": "None"
+                                    "Culture": "Blank"
                                 }
                             ],
                             "ObjectName": "Painting"
@@ -1470,7 +1481,7 @@
                                             "Count": 18
                                         }
                                     ],
-                                    "Culture": "None"
+                                    "Culture": "Blank"
                                 }
                             ],
                             "ObjectName": "Polaroid"
@@ -1484,7 +1495,7 @@
                                             "Count": 16
                                         }
                                     ],
-                                    "Culture": "None"
+                                    "Culture": "Blank"
                                 }
                             ],
                             "ObjectName": "Manuscript Materials"
@@ -1498,7 +1509,7 @@
                                             "Count": 11
                                         }
                                     ],
-                                    "Culture": "None"
+                                    "Culture": "Blank"
                                 }
                             ],
                             "ObjectName": "Periodical"
@@ -1512,7 +1523,7 @@
                                             "Count": 10
                                         }
                                     ],
-                                    "Culture": "None"
+                                    "Culture": "Blank"
                                 }
                             ],
                             "ObjectName": "Contact Sheet"
@@ -1526,7 +1537,7 @@
                                             "Count": 8
                                         }
                                     ],
-                                    "Culture": "None"
+                                    "Culture": "Blank"
                                 }
                             ],
                             "ObjectName": "Carte-de-visite"
@@ -1540,7 +1551,7 @@
                                             "Count": 7
                                         }
                                     ],
-                                    "Culture": "None"
+                                    "Culture": "Blank"
                                 }
                             ],
                             "ObjectName": "Address book"
@@ -1558,7 +1569,7 @@
                                             "Count": 3
                                         }
                                     ],
-                                    "Culture": "None"
+                                    "Culture": "Blank"
                                 }
                             ],
                             "ObjectName": "Print"
@@ -1581,7 +1592,7 @@
                                             "Count": 3
                                         }
                                     ],
-                                    "Culture": "None"
+                                    "Culture": "Blank"
                                 }
                             ],
                             "ObjectName": "Photograph"
@@ -1595,7 +1606,7 @@
                                             "Count": 1
                                         }
                                     ],
-                                    "Culture": "None"
+                                    "Culture": "Blank"
                                 }
                             ],
                             "ObjectName": "Manuscript materials"
@@ -1712,7 +1723,7 @@
                                             "Count": 1
                                         }
                                     ],
-                                    "Culture": "None"
+                                    "Culture": "Blank"
                                 },
                                 {
                                     "children": [
@@ -1922,7 +1933,7 @@
                                             "Count": 1
                                         }
                                     ],
-                                    "Culture": "None"
+                                    "Culture": "Blank"
                                 }
                             ],
                             "ObjectName": "Jug"
@@ -2010,7 +2021,7 @@
                                             "Count": 9
                                         }
                                     ],
-                                    "Culture": "None"
+                                    "Culture": "Blank"
                                 },
                                 {
                                     "children": [
@@ -2254,7 +2265,7 @@
                                             "Count": 1
                                         }
                                     ],
-                                    "Culture": "None"
+                                    "Culture": "Blank"
                                 },
                                 {
                                     "children": [
@@ -2426,7 +2437,7 @@
                                             "Count": 1
                                         }
                                     ],
-                                    "Culture": "None"
+                                    "Culture": "Blank"
                                 },
                                 {
                                     "children": [
@@ -2532,7 +2543,7 @@
                                             "Count": 4
                                         }
                                     ],
-                                    "Culture": "None"
+                                    "Culture": "Blank"
                                 }
                             ],
                             "ObjectName": "Spindle whorl"
@@ -2640,7 +2651,7 @@
                                             "Count": 3
                                         }
                                     ],
-                                    "Culture": "None"
+                                    "Culture": "Blank"
                                 },
                                 {
                                     "children": [
@@ -2721,7 +2732,7 @@
                                             "Count": 10
                                         }
                                     ],
-                                    "Culture": "None"
+                                    "Culture": "Blank"
                                 }
                             ],
                             "ObjectName": "Earring with pendant"
@@ -2831,7 +2842,7 @@
                                             "Count": 35
                                         }
                                     ],
-                                    "Culture": "None"
+                                    "Culture": "Blank"
                                 },
                                 {
                                     "children": [
@@ -3183,7 +3194,7 @@
                                             "Count": 1
                                         }
                                     ],
-                                    "Culture": "None"
+                                    "Culture": "Blank"
                                 }
                             ],
                             "ObjectName": "Vase fragment"
@@ -3397,7 +3408,7 @@
                                             "Count": 2
                                         }
                                     ],
-                                    "Culture": "None"
+                                    "Culture": "Blank"
                                 },
                                 {
                                     "children": [
@@ -3692,7 +3703,7 @@
                                             "Count": 1
                                         }
                                     ],
-                                    "Culture": "None"
+                                    "Culture": "Blank"
                                 },
                                 {
                                     "children": [
@@ -3875,7 +3886,7 @@
                                             "Count": 1
                                         }
                                     ],
-                                    "Culture": "None"
+                                    "Culture": "Blank"
                                 },
                                 {
                                     "children": [
@@ -4056,7 +4067,7 @@
                                             "Count": 1
                                         }
                                     ],
-                                    "Culture": "None"
+                                    "Culture": "Blank"
                                 },
                                 {
                                     "children": [
@@ -4521,7 +4532,7 @@
                                             "Count": 23
                                         }
                                     ],
-                                    "Culture": "None"
+                                    "Culture": "Blank"
                                 }
                             ],
                             "ObjectName": "Pinhead"
@@ -4618,7 +4629,7 @@
                                             "Count": 1
                                         }
                                     ],
-                                    "Culture": "None"
+                                    "Culture": "Blank"
                                 },
                                 {
                                     "children": [
@@ -5021,7 +5032,7 @@
                                             "Count": 1
                                         }
                                     ],
-                                    "Culture": "None"
+                                    "Culture": "Blank"
                                 },
                                 {
                                     "children": [
@@ -5500,7 +5511,7 @@
                                             "Count": 2
                                         }
                                     ],
-                                    "Culture": "None"
+                                    "Culture": "Blank"
                                 },
                                 {
                                     "children": [
@@ -5615,7 +5626,7 @@
                                             "Count": 1
                                         }
                                     ],
-                                    "Culture": "None"
+                                    "Culture": "Blank"
                                 },
                                 {
                                     "children": [
@@ -5882,7 +5893,7 @@
                                             "Count": 1
                                         }
                                     ],
-                                    "Culture": "None"
+                                    "Culture": "Blank"
                                 },
                                 {
                                     "children": [
@@ -5977,7 +5988,7 @@
                                             "Count": 1
                                         }
                                     ],
-                                    "Culture": "None"
+                                    "Culture": "Blank"
                                 }
                             ],
                             "ObjectName": "Print"
@@ -5996,7 +6007,7 @@
                                             "Count": 5
                                         }
                                     ],
-                                    "Culture": "None"
+                                    "Culture": "Blank"
                                 }
                             ],
                             "ObjectName": "Print Collection Ornament & Architecture"
@@ -6015,7 +6026,7 @@
                                             "Count": 2
                                         }
                                     ],
-                                    "Culture": "None"
+                                    "Culture": "Blank"
                                 }
                             ],
                             "ObjectName": "Print"
@@ -6029,7 +6040,7 @@
                                             "Count": 1
                                         }
                                     ],
-                                    "Culture": "None"
+                                    "Culture": "Blank"
                                 }
                             ],
                             "ObjectName": "Print, Trade Card"
@@ -6056,7 +6067,7 @@
                                             "Count": 1766
                                         }
                                     ],
-                                    "Culture": "None"
+                                    "Culture": "Blank"
                                 }
                             ],
                             "ObjectName": "Print"
@@ -6078,7 +6089,7 @@
                                             "Count": 35
                                         }
                                     ],
-                                    "Culture": "None"
+                                    "Culture": "Blank"
                                 }
                             ],
                             "ObjectName": "Drawing"
@@ -6100,7 +6111,7 @@
                                             "Count": 93
                                         }
                                     ],
-                                    "Culture": "None"
+                                    "Culture": "Blank"
                                 }
                             ],
                             "ObjectName": "Book"
@@ -6118,7 +6129,7 @@
                                             "Count": 86
                                         }
                                     ],
-                                    "Culture": "None"
+                                    "Culture": "Blank"
                                 }
                             ],
                             "ObjectName": "Drawing ; Ornament and Architecture"
@@ -6132,7 +6143,7 @@
                                             "Count": 82
                                         }
                                     ],
-                                    "Culture": "None"
+                                    "Culture": "Blank"
                                 }
                             ],
                             "ObjectName": "Drawing Print Ornament and Architecture"
@@ -6146,7 +6157,7 @@
                                             "Count": 25
                                         }
                                     ],
-                                    "Culture": "None"
+                                    "Culture": "Blank"
                                 }
                             ],
                             "ObjectName": "Print Ornament & Architecture"
@@ -6160,7 +6171,7 @@
                                             "Count": 13
                                         }
                                     ],
-                                    "Culture": "None"
+                                    "Culture": "Blank"
                                 }
                             ],
                             "ObjectName": "Print, Fete, Ornament & Architecture"
@@ -6178,7 +6189,7 @@
                                             "Count": 1
                                         }
                                     ],
-                                    "Culture": "None"
+                                    "Culture": "Blank"
                                 }
                             ],
                             "ObjectName": "Print Ornament and Architecture"
@@ -6192,7 +6203,7 @@
                                             "Count": 11
                                         }
                                     ],
-                                    "Culture": "None"
+                                    "Culture": "Blank"
                                 }
                             ],
                             "ObjectName": "Prints Ornament & Architecture"
@@ -6218,7 +6229,7 @@
                                             "Count": 3
                                         }
                                     ],
-                                    "Culture": "None"
+                                    "Culture": "Blank"
                                 }
                             ],
                             "ObjectName": "Drawing Ornament & Architecture"
@@ -6240,7 +6251,7 @@
                                             "Count": 4
                                         }
                                     ],
-                                    "Culture": "None"
+                                    "Culture": "Blank"
                                 }
                             ],
                             "ObjectName": "Album"
@@ -6254,7 +6265,7 @@
                                             "Count": 7
                                         }
                                     ],
-                                    "Culture": "None"
+                                    "Culture": "Blank"
                                 }
                             ],
                             "ObjectName": "Collection Ornament & Architecture"
@@ -6268,7 +6279,7 @@
                                             "Count": 6
                                         }
                                     ],
-                                    "Culture": "None"
+                                    "Culture": "Blank"
                                 }
                             ],
                             "ObjectName": "Print, Ornament & Architecture"
@@ -6282,7 +6293,7 @@
                                             "Count": 5
                                         }
                                     ],
-                                    "Culture": "None"
+                                    "Culture": "Blank"
                                 }
                             ],
                             "ObjectName": "Photograph"
@@ -6296,7 +6307,7 @@
                                             "Count": 5
                                         }
                                     ],
-                                    "Culture": "None"
+                                    "Culture": "Blank"
                                 }
                             ],
                             "ObjectName": "Book ; Ornament and architecture"
@@ -6310,7 +6321,7 @@
                                             "Count": 4
                                         }
                                     ],
-                                    "Culture": "None"
+                                    "Culture": "Blank"
                                 }
                             ],
                             "ObjectName": "Album print"
@@ -6332,7 +6343,7 @@
                                             "Count": 1
                                         }
                                     ],
-                                    "Culture": "None"
+                                    "Culture": "Blank"
                                 }
                             ],
                             "ObjectName": "print"
@@ -6350,7 +6361,7 @@
                                             "Count": 2
                                         }
                                     ],
-                                    "Culture": "None"
+                                    "Culture": "Blank"
                                 }
                             ],
                             "ObjectName": "Album ; print"
@@ -6364,7 +6375,7 @@
                                             "Count": 3
                                         }
                                     ],
-                                    "Culture": "None"
+                                    "Culture": "Blank"
                                 }
                             ],
                             "ObjectName": "Print collection ornament & architecture"
@@ -6382,7 +6393,7 @@
                                             "Count": 1
                                         }
                                     ],
-                                    "Culture": "None"
+                                    "Culture": "Blank"
                                 }
                             ],
                             "ObjectName": "print ornament & architecture"
@@ -6413,7 +6424,7 @@
                                             "Count": 1
                                         }
                                     ],
-                                    "Culture": "None"
+                                    "Culture": "Blank"
                                 }
                             ],
                             "ObjectName": "Print"
@@ -6427,7 +6438,7 @@
                                             "Count": 1
                                         }
                                     ],
-                                    "Culture": "None"
+                                    "Culture": "Blank"
                                 }
                             ],
                             "ObjectName": "Print, Fete, Ornament & Architecture"
@@ -6446,7 +6457,7 @@
                                             "Count": 1
                                         }
                                     ],
-                                    "Culture": "None"
+                                    "Culture": "Blank"
                                 }
                             ],
                             "ObjectName": "Drawing"
@@ -6465,7 +6476,7 @@
                                             "Count": 1
                                         }
                                     ],
-                                    "Culture": "None"
+                                    "Culture": "Blank"
                                 }
                             ],
                             "ObjectName": "Print"
@@ -6489,7 +6500,7 @@
                                             "Count": 2
                                         }
                                     ],
-                                    "Culture": "None"
+                                    "Culture": "Blank"
                                 }
                             ],
                             "ObjectName": "Print"
@@ -6508,7 +6519,7 @@
                                             "Count": 1
                                         }
                                     ],
-                                    "Culture": "None"
+                                    "Culture": "Blank"
                                 }
                             ],
                             "ObjectName": "Print"
@@ -6535,7 +6546,7 @@
                                             "Count": 42
                                         }
                                     ],
-                                    "Culture": "None"
+                                    "Culture": "Blank"
                                 }
                             ],
                             "ObjectName": "Print"
@@ -6549,7 +6560,7 @@
                                             "Count": 251
                                         }
                                     ],
-                                    "Culture": "None"
+                                    "Culture": "Blank"
                                 }
                             ],
                             "ObjectName": "Print collection ornament & architecture"
@@ -6567,7 +6578,7 @@
                                             "Count": 68
                                         }
                                     ],
-                                    "Culture": "None"
+                                    "Culture": "Blank"
                                 }
                             ],
                             "ObjectName": "Print, Fete, Ornament & Architecture"
@@ -6585,7 +6596,7 @@
                                             "Count": 29
                                         }
                                     ],
-                                    "Culture": "None"
+                                    "Culture": "Blank"
                                 }
                             ],
                             "ObjectName": "Print ornament & architecture"
@@ -6607,7 +6618,7 @@
                                             "Count": 30
                                         }
                                     ],
-                                    "Culture": "None"
+                                    "Culture": "Blank"
                                 }
                             ],
                             "ObjectName": "Drawing"
@@ -6625,7 +6636,7 @@
                                             "Count": 40
                                         }
                                     ],
-                                    "Culture": "None"
+                                    "Culture": "Blank"
                                 }
                             ],
                             "ObjectName": "Collection Ornament & Architecture"
@@ -6643,7 +6654,7 @@
                                             "Count": 15
                                         }
                                     ],
-                                    "Culture": "None"
+                                    "Culture": "Blank"
                                 }
                             ],
                             "ObjectName": "Book"
@@ -6661,7 +6672,7 @@
                                             "Count": 18
                                         }
                                     ],
-                                    "Culture": "None"
+                                    "Culture": "Blank"
                                 }
                             ],
                             "ObjectName": "Print Ornament & Architecture"
@@ -6675,7 +6686,7 @@
                                             "Count": 18
                                         }
                                     ],
-                                    "Culture": "None"
+                                    "Culture": "Blank"
                                 }
                             ],
                             "ObjectName": "Albums Prints Ornament & Architecture"
@@ -6693,7 +6704,7 @@
                                             "Count": 14
                                         }
                                     ],
-                                    "Culture": "None"
+                                    "Culture": "Blank"
                                 }
                             ],
                             "ObjectName": "Print, Ornament & Architecture, Fete"
@@ -6707,7 +6718,7 @@
                                             "Count": 14
                                         }
                                     ],
-                                    "Culture": "None"
+                                    "Culture": "Blank"
                                 }
                             ],
                             "ObjectName": "Print; Ornament & Architecture"
@@ -6725,7 +6736,7 @@
                                             "Count": 1
                                         }
                                     ],
-                                    "Culture": "None"
+                                    "Culture": "Blank"
                                 }
                             ],
                             "ObjectName": "Prints Ornament & Architecture"
@@ -6743,7 +6754,7 @@
                                             "Count": 2
                                         }
                                     ],
-                                    "Culture": "None"
+                                    "Culture": "Blank"
                                 }
                             ],
                             "ObjectName": "Prints"
@@ -6761,7 +6772,7 @@
                                             "Count": 9
                                         }
                                     ],
-                                    "Culture": "None"
+                                    "Culture": "Blank"
                                 }
                             ],
                             "ObjectName": "Album Prints Ornament & Architecture"
@@ -6775,7 +6786,7 @@
                                             "Count": 10
                                         }
                                     ],
-                                    "Culture": "None"
+                                    "Culture": "Blank"
                                 }
                             ],
                             "ObjectName": "print"
@@ -6793,13 +6804,28 @@
                                             "Count": 6
                                         }
                                     ],
-                                    "Culture": "None"
+                                    "Culture": "Blank"
                                 }
                             ],
                             "ObjectName": "Print, Ornament & Architecture"
                         },
                         {
-                            "ObjectName": NaN
+                            "children": [
+                                {
+                                    "children": [
+                                        {
+                                            "DateRange": "1400-1599",
+                                            "Count": 7
+                                        },
+                                        {
+                                            "DateRange": "1600-1799",
+                                            "Count": 1
+                                        }
+                                    ],
+                                    "Culture": "Blank"
+                                }
+                            ],
+                            "ObjectName": "Blank"
                         },
                         {
                             "children": [
@@ -6810,7 +6836,7 @@
                                             "Count": 6
                                         }
                                     ],
-                                    "Culture": "None"
+                                    "Culture": "Blank"
                                 }
                             ],
                             "ObjectName": "Album Print Ornament & Architecture"
@@ -6824,7 +6850,7 @@
                                             "Count": 4
                                         }
                                     ],
-                                    "Culture": "None"
+                                    "Culture": "Blank"
                                 }
                             ],
                             "ObjectName": "Print collection ornament and architecture"
@@ -6838,7 +6864,7 @@
                                             "Count": 4
                                         }
                                     ],
-                                    "Culture": "None"
+                                    "Culture": "Blank"
                                 }
                             ],
                             "ObjectName": "Book Print"
@@ -6865,7 +6891,7 @@
                                             "Count": 1
                                         }
                                     ],
-                                    "Culture": "None"
+                                    "Culture": "Blank"
                                 }
                             ],
                             "ObjectName": "Print"
@@ -6884,7 +6910,7 @@
                                             "Count": 1
                                         }
                                     ],
-                                    "Culture": "None"
+                                    "Culture": "Blank"
                                 }
                             ],
                             "ObjectName": "Drawing"
@@ -7235,7 +7261,7 @@
                                             "Count": 1
                                         }
                                     ],
-                                    "Culture": "None"
+                                    "Culture": "Blank"
                                 },
                                 {
                                     "children": [
@@ -7546,7 +7572,7 @@
                                             "Count": 28
                                         }
                                     ],
-                                    "Culture": "None"
+                                    "Culture": "Blank"
                                 },
                                 {
                                     "children": [
@@ -7585,7 +7611,7 @@
                                             "Count": 1
                                         }
                                     ],
-                                    "Culture": "None"
+                                    "Culture": "Blank"
                                 },
                                 {
                                     "children": [
@@ -7998,7 +8024,7 @@
                                             "Count": 10
                                         }
                                     ],
-                                    "Culture": "None"
+                                    "Culture": "Blank"
                                 },
                                 {
                                     "children": [
@@ -8195,7 +8221,7 @@
                                             "Count": 2
                                         }
                                     ],
-                                    "Culture": "None"
+                                    "Culture": "Blank"
                                 },
                                 {
                                     "children": [
@@ -8289,7 +8315,7 @@
                                             "Count": 2
                                         }
                                     ],
-                                    "Culture": "None"
+                                    "Culture": "Blank"
                                 },
                                 {
                                     "children": [
@@ -8374,7 +8400,7 @@
                                             "Count": 1
                                         }
                                     ],
-                                    "Culture": "None"
+                                    "Culture": "Blank"
                                 }
                             ],
                             "ObjectName": "Sampler"
@@ -8392,7 +8418,7 @@
                                             "Count": 2
                                         }
                                     ],
-                                    "Culture": "None"
+                                    "Culture": "Blank"
                                 },
                                 {
                                     "children": [
@@ -8508,7 +8534,7 @@
                                             "Count": 2
                                         }
                                     ],
-                                    "Culture": "None"
+                                    "Culture": "Blank"
                                 },
                                 {
                                     "children": [
@@ -8589,7 +8615,7 @@
                                             "Count": 16
                                         }
                                     ],
-                                    "Culture": "None"
+                                    "Culture": "Blank"
                                 }
                             ],
                             "ObjectName": "Ring"
@@ -8620,7 +8646,7 @@
                                             "Count": 9
                                         }
                                     ],
-                                    "Culture": "None"
+                                    "Culture": "Blank"
                                 }
                             ],
                             "ObjectName": "Drawing"
@@ -8770,7 +8796,7 @@
                                             "Count": 5
                                         }
                                     ],
-                                    "Culture": "None"
+                                    "Culture": "Blank"
                                 }
                             ],
                             "ObjectName": "Print"
@@ -8789,7 +8815,7 @@
                                             "Count": 2
                                         }
                                     ],
-                                    "Culture": "None"
+                                    "Culture": "Blank"
                                 }
                             ],
                             "ObjectName": "Print"
@@ -8820,7 +8846,7 @@
                                             "Count": 72
                                         }
                                     ],
-                                    "Culture": "None"
+                                    "Culture": "Blank"
                                 }
                             ],
                             "ObjectName": "Print"
@@ -8842,7 +8868,7 @@
                                             "Count": 140
                                         }
                                     ],
-                                    "Culture": "None"
+                                    "Culture": "Blank"
                                 }
                             ],
                             "ObjectName": "Book"
@@ -8860,7 +8886,7 @@
                                             "Count": 22
                                         }
                                     ],
-                                    "Culture": "None"
+                                    "Culture": "Blank"
                                 }
                             ],
                             "ObjectName": "Print ornament & architecture"
@@ -8874,7 +8900,7 @@
                                             "Count": 37
                                         }
                                     ],
-                                    "Culture": "None"
+                                    "Culture": "Blank"
                                 }
                             ],
                             "ObjectName": "Print, Fete, Ornament & Architecture"
@@ -8896,7 +8922,7 @@
                                             "Count": 1
                                         }
                                     ],
-                                    "Culture": "None"
+                                    "Culture": "Blank"
                                 }
                             ],
                             "ObjectName": "Print Ornament & Architecture"
@@ -8910,7 +8936,7 @@
                                             "Count": 13
                                         }
                                     ],
-                                    "Culture": "None"
+                                    "Culture": "Blank"
                                 }
                             ],
                             "ObjectName": "Prints Collection Ornament & Architecture"
@@ -8928,7 +8954,7 @@
                                             "Count": 4
                                         }
                                     ],
-                                    "Culture": "None"
+                                    "Culture": "Blank"
                                 }
                             ],
                             "ObjectName": "print ornament & architecture"
@@ -8946,7 +8972,7 @@
                                             "Count": 10
                                         }
                                     ],
-                                    "Culture": "None"
+                                    "Culture": "Blank"
                                 }
                             ],
                             "ObjectName": "print"
@@ -8960,7 +8986,7 @@
                                             "Count": 10
                                         }
                                     ],
-                                    "Culture": "None"
+                                    "Culture": "Blank"
                                 }
                             ],
                             "ObjectName": "Print, Ornament & Architecture, Fete"
@@ -8974,7 +9000,7 @@
                                             "Count": 8
                                         }
                                     ],
-                                    "Culture": "None"
+                                    "Culture": "Blank"
                                 }
                             ],
                             "ObjectName": "Print Ornament and architecture"
@@ -8988,7 +9014,7 @@
                                             "Count": 8
                                         }
                                     ],
-                                    "Culture": "None"
+                                    "Culture": "Blank"
                                 }
                             ],
                             "ObjectName": "Print, Ornament & Architecture"
@@ -9010,7 +9036,7 @@
                                             "Count": 5
                                         }
                                     ],
-                                    "Culture": "None"
+                                    "Culture": "Blank"
                                 }
                             ],
                             "ObjectName": "Drawing"
@@ -9028,7 +9054,7 @@
                                             "Count": 1
                                         }
                                     ],
-                                    "Culture": "None"
+                                    "Culture": "Blank"
                                 }
                             ],
                             "ObjectName": "Prints"
@@ -9042,7 +9068,7 @@
                                             "Count": 4
                                         }
                                     ],
-                                    "Culture": "None"
+                                    "Culture": "Blank"
                                 }
                             ],
                             "ObjectName": "Book ; Ornament and architecture"
@@ -9060,13 +9086,28 @@
                                             "Count": 3
                                         }
                                     ],
-                                    "Culture": "None"
+                                    "Culture": "Blank"
                                 }
                             ],
                             "ObjectName": "Print Ornament and Architecture"
                         },
                         {
-                            "ObjectName": NaN
+                            "children": [
+                                {
+                                    "children": [
+                                        {
+                                            "DateRange": "1400-1599",
+                                            "Count": 3
+                                        },
+                                        {
+                                            "DateRange": "1600-1799",
+                                            "Count": 1
+                                        }
+                                    ],
+                                    "Culture": "Blank"
+                                }
+                            ],
+                            "ObjectName": "Blank"
                         },
                         {
                             "children": [
@@ -9081,7 +9122,7 @@
                                             "Count": 1
                                         }
                                     ],
-                                    "Culture": "None"
+                                    "Culture": "Blank"
                                 }
                             ],
                             "ObjectName": "Book ; Ornament and Architecture"
@@ -9095,7 +9136,7 @@
                                             "Count": 2
                                         }
                                     ],
-                                    "Culture": "None"
+                                    "Culture": "Blank"
                                 }
                             ],
                             "ObjectName": "Print ornament and architecture"
@@ -9109,7 +9150,7 @@
                                             "Count": 2
                                         }
                                     ],
-                                    "Culture": "None"
+                                    "Culture": "Blank"
                                 }
                             ],
                             "ObjectName": "Collection Ornament & Architecture"
@@ -9123,7 +9164,7 @@
                                             "Count": 2
                                         }
                                     ],
-                                    "Culture": "None"
+                                    "Culture": "Blank"
                                 }
                             ],
                             "ObjectName": "Drawing Ornament & Architecture"
@@ -9154,7 +9195,7 @@
                                             "Count": 1
                                         }
                                     ],
-                                    "Culture": "None"
+                                    "Culture": "Blank"
                                 }
                             ],
                             "ObjectName": "Print"
@@ -9182,7 +9223,7 @@
                                             "Count": 3219
                                         }
                                     ],
-                                    "Culture": "None"
+                                    "Culture": "Blank"
                                 }
                             ],
                             "ObjectName": "Drawing"
@@ -9196,7 +9237,7 @@
                                             "Count": 69
                                         }
                                     ],
-                                    "Culture": "None"
+                                    "Culture": "Blank"
                                 }
                             ],
                             "ObjectName": "Print"
@@ -9210,7 +9251,7 @@
                                             "Count": 22
                                         }
                                     ],
-                                    "Culture": "None"
+                                    "Culture": "Blank"
                                 }
                             ],
                             "ObjectName": "Album"
@@ -9224,7 +9265,7 @@
                                             "Count": 4
                                         }
                                     ],
-                                    "Culture": "None"
+                                    "Culture": "Blank"
                                 }
                             ],
                             "ObjectName": "Collection Ornament & Architecture"
@@ -9238,13 +9279,24 @@
                                             "Count": 3
                                         }
                                     ],
-                                    "Culture": "None"
+                                    "Culture": "Blank"
                                 }
                             ],
                             "ObjectName": "Drawings"
                         },
                         {
-                            "ObjectName": NaN
+                            "children": [
+                                {
+                                    "children": [
+                                        {
+                                            "DateRange": "1800-1999",
+                                            "Count": 1
+                                        }
+                                    ],
+                                    "Culture": "Blank"
+                                }
+                            ],
+                            "ObjectName": "Blank"
                         }
                     ],
                     "YearRange": "1920-1929"
@@ -9265,7 +9317,7 @@
                                             "Count": 2
                                         }
                                     ],
-                                    "Culture": "None"
+                                    "Culture": "Blank"
                                 }
                             ],
                             "ObjectName": "Print"
@@ -9296,7 +9348,7 @@
                                             "Count": 233
                                         }
                                     ],
-                                    "Culture": "None"
+                                    "Culture": "Blank"
                                 }
                             ],
                             "ObjectName": "Print"
@@ -9322,7 +9374,7 @@
                                             "Count": 20
                                         }
                                     ],
-                                    "Culture": "None"
+                                    "Culture": "Blank"
                                 }
                             ],
                             "ObjectName": "Drawing"
@@ -9344,7 +9396,7 @@
                                             "Count": 41
                                         }
                                     ],
-                                    "Culture": "None"
+                                    "Culture": "Blank"
                                 }
                             ],
                             "ObjectName": "Book"
@@ -9362,7 +9414,7 @@
                                             "Count": 42
                                         }
                                     ],
-                                    "Culture": "None"
+                                    "Culture": "Blank"
                                 }
                             ],
                             "ObjectName": "Collection Ornament & Architecture"
@@ -9380,7 +9432,7 @@
                                             "Count": 33
                                         }
                                     ],
-                                    "Culture": "None"
+                                    "Culture": "Blank"
                                 }
                             ],
                             "ObjectName": "Print ornament & architecture"
@@ -9402,7 +9454,7 @@
                                             "Count": 30
                                         }
                                     ],
-                                    "Culture": "None"
+                                    "Culture": "Blank"
                                 }
                             ],
                             "ObjectName": "Drawing ; Ornament and architecture"
@@ -9420,7 +9472,7 @@
                                             "Count": 24
                                         }
                                     ],
-                                    "Culture": "None"
+                                    "Culture": "Blank"
                                 }
                             ],
                             "ObjectName": "Print Ornament & Architecture"
@@ -9434,7 +9486,7 @@
                                             "Count": 35
                                         }
                                     ],
-                                    "Culture": "None"
+                                    "Culture": "Blank"
                                 }
                             ],
                             "ObjectName": "Print; Ornament & Architecture"
@@ -9452,7 +9504,7 @@
                                             "Count": 2
                                         }
                                     ],
-                                    "Culture": "None"
+                                    "Culture": "Blank"
                                 }
                             ],
                             "ObjectName": "Print\r\nOrnament & Architecture"
@@ -9470,7 +9522,7 @@
                                             "Count": 2
                                         }
                                     ],
-                                    "Culture": "None"
+                                    "Culture": "Blank"
                                 }
                             ],
                             "ObjectName": "Drawing ; Ornament and Architecture"
@@ -9484,7 +9536,7 @@
                                             "Count": 20
                                         }
                                     ],
-                                    "Culture": "None"
+                                    "Culture": "Blank"
                                 }
                             ],
                             "ObjectName": "Print collection ornament & architecture"
@@ -9498,7 +9550,7 @@
                                             "Count": 18
                                         }
                                     ],
-                                    "Culture": "None"
+                                    "Culture": "Blank"
                                 }
                             ],
                             "ObjectName": "Album Print Ornament & Architecture"
@@ -9516,7 +9568,7 @@
                                             "Count": 5
                                         }
                                     ],
-                                    "Culture": "None"
+                                    "Culture": "Blank"
                                 }
                             ],
                             "ObjectName": "Print Ornament and Architecture"
@@ -9534,7 +9586,7 @@
                                             "Count": 13
                                         }
                                     ],
-                                    "Culture": "None"
+                                    "Culture": "Blank"
                                 }
                             ],
                             "ObjectName": "Book Prints Ornament & Architecture"
@@ -9552,7 +9604,7 @@
                                             "Count": 6
                                         }
                                     ],
-                                    "Culture": "None"
+                                    "Culture": "Blank"
                                 }
                             ],
                             "ObjectName": "Prints"
@@ -9566,7 +9618,7 @@
                                             "Count": 10
                                         }
                                     ],
-                                    "Culture": "None"
+                                    "Culture": "Blank"
                                 }
                             ],
                             "ObjectName": "Prints Ornament & Architecture"
@@ -9584,7 +9636,7 @@
                                             "Count": 9
                                         }
                                     ],
-                                    "Culture": "None"
+                                    "Culture": "Blank"
                                 }
                             ],
                             "ObjectName": "print"
@@ -9602,7 +9654,7 @@
                                             "Count": 6
                                         }
                                     ],
-                                    "Culture": "None"
+                                    "Culture": "Blank"
                                 }
                             ],
                             "ObjectName": "Print, Trade Card"
@@ -9624,7 +9676,7 @@
                                             "Count": 2
                                         }
                                     ],
-                                    "Culture": "None"
+                                    "Culture": "Blank"
                                 }
                             ],
                             "ObjectName": "Drawing Ornament & Architecture"
@@ -9642,7 +9694,7 @@
                                             "Count": 6
                                         }
                                     ],
-                                    "Culture": "None"
+                                    "Culture": "Blank"
                                 }
                             ],
                             "ObjectName": "Album"
@@ -9677,7 +9729,7 @@
                                             "Count": 1
                                         }
                                     ],
-                                    "Culture": "None"
+                                    "Culture": "Blank"
                                 }
                             ],
                             "ObjectName": "Print"
@@ -9691,7 +9743,7 @@
                                             "Count": 1
                                         }
                                     ],
-                                    "Culture": "None"
+                                    "Culture": "Blank"
                                 }
                             ],
                             "ObjectName": "Print Collection Ornament & Architecture"
@@ -9718,7 +9770,7 @@
                                             "Count": 1
                                         }
                                     ],
-                                    "Culture": "None"
+                                    "Culture": "Blank"
                                 }
                             ],
                             "ObjectName": "Print"
@@ -9732,7 +9784,7 @@
                                             "Count": 1
                                         }
                                     ],
-                                    "Culture": "None"
+                                    "Culture": "Blank"
                                 }
                             ],
                             "ObjectName": "Print, Trade Card"
@@ -9751,7 +9803,7 @@
                                             "Count": 1
                                         }
                                     ],
-                                    "Culture": "None"
+                                    "Culture": "Blank"
                                 }
                             ],
                             "ObjectName": "Drawing"
@@ -9765,7 +9817,7 @@
                                             "Count": 1
                                         }
                                     ],
-                                    "Culture": "None"
+                                    "Culture": "Blank"
                                 }
                             ],
                             "ObjectName": "Print"
@@ -9784,7 +9836,7 @@
                                             "Count": 1
                                         }
                                     ],
-                                    "Culture": "None"
+                                    "Culture": "Blank"
                                 }
                             ],
                             "ObjectName": "Print"
@@ -9803,7 +9855,7 @@
                                             "Count": 1
                                         }
                                     ],
-                                    "Culture": "None"
+                                    "Culture": "Blank"
                                 }
                             ],
                             "ObjectName": "Print"
@@ -12041,7 +12093,7 @@
                                             "Count": 1
                                         }
                                     ],
-                                    "Culture": "None"
+                                    "Culture": "Blank"
                                 },
                                 {
                                     "children": [
@@ -12155,7 +12207,7 @@
                                             "Count": 1
                                         }
                                     ],
-                                    "Culture": "None"
+                                    "Culture": "Blank"
                                 }
                             ],
                             "ObjectName": "Rattle"
@@ -15787,7 +15839,7 @@
                                             "Count": 658
                                         }
                                     ],
-                                    "Culture": "None"
+                                    "Culture": "Blank"
                                 }
                             ],
                             "ObjectName": "Textile sample"
@@ -15821,7 +15873,7 @@
                                             "Count": 1
                                         }
                                     ],
-                                    "Culture": "None"
+                                    "Culture": "Blank"
                                 },
                                 {
                                     "children": [
@@ -16203,7 +16255,7 @@
                                             "Count": 86
                                         }
                                     ],
-                                    "Culture": "None"
+                                    "Culture": "Blank"
                                 }
                             ],
                             "ObjectName": "Cast, Hatshepsut Temple, Punt reliefs, west wall"
@@ -16350,7 +16402,7 @@
                                             "Count": 9
                                         }
                                     ],
-                                    "Culture": "None"
+                                    "Culture": "Blank"
                                 }
                             ],
                             "ObjectName": "Coin weight"
@@ -16476,7 +16528,7 @@
                                             "Count": 45
                                         }
                                     ],
-                                    "Culture": "None"
+                                    "Culture": "Blank"
                                 }
                             ],
                             "ObjectName": "Cast, Hatshepsut Temple, Punt reliefs, south wall"
@@ -16498,7 +16550,7 @@
                                             "Count": 12
                                         }
                                     ],
-                                    "Culture": "None"
+                                    "Culture": "Blank"
                                 }
                             ],
                             "ObjectName": "Drawing"
@@ -16560,7 +16612,7 @@
                                             "Count": 2
                                         }
                                     ],
-                                    "Culture": "None"
+                                    "Culture": "Blank"
                                 }
                             ],
                             "ObjectName": "Ceramic fragment"
@@ -16753,7 +16805,7 @@
                                             "Count": 8
                                         }
                                     ],
-                                    "Culture": "None"
+                                    "Culture": "Blank"
                                 }
                             ],
                             "ObjectName": "Textile fragment"
@@ -16787,7 +16839,7 @@
                                             "Count": 1
                                         }
                                     ],
-                                    "Culture": "None"
+                                    "Culture": "Blank"
                                 },
                                 {
                                     "children": [
@@ -16855,7 +16907,7 @@
                                             "Count": 1
                                         }
                                     ],
-                                    "Culture": "None"
+                                    "Culture": "Blank"
                                 }
                             ],
                             "ObjectName": "Drawing"
@@ -17671,7 +17723,7 @@
                                             "Count": 1
                                         }
                                     ],
-                                    "Culture": "None"
+                                    "Culture": "Blank"
                                 }
                             ],
                             "ObjectName": "Textile fragment"
@@ -17707,7 +17759,7 @@
                                             "Count": 1363
                                         }
                                     ],
-                                    "Culture": "None"
+                                    "Culture": "Blank"
                                 }
                             ],
                             "ObjectName": "Print"
@@ -17729,7 +17781,7 @@
                                             "Count": 24
                                         }
                                     ],
-                                    "Culture": "None"
+                                    "Culture": "Blank"
                                 },
                                 {
                                     "children": [
@@ -17756,7 +17808,7 @@
                                             "Count": 29
                                         }
                                     ],
-                                    "Culture": "None"
+                                    "Culture": "Blank"
                                 }
                             ],
                             "ObjectName": "Book"
@@ -17778,7 +17830,7 @@
                                             "Count": 1
                                         }
                                     ],
-                                    "Culture": "None"
+                                    "Culture": "Blank"
                                 }
                             ],
                             "ObjectName": "Prints"
@@ -17796,7 +17848,7 @@
                                             "Count": 1
                                         }
                                     ],
-                                    "Culture": "None"
+                                    "Culture": "Blank"
                                 }
                             ],
                             "ObjectName": "print"
@@ -17814,7 +17866,7 @@
                                             "Count": 3
                                         }
                                     ],
-                                    "Culture": "None"
+                                    "Culture": "Blank"
                                 }
                             ],
                             "ObjectName": "Album"
@@ -17828,7 +17880,7 @@
                                             "Count": 4
                                         }
                                     ],
-                                    "Culture": "None"
+                                    "Culture": "Blank"
                                 }
                             ],
                             "ObjectName": "print ornament & architecture"
@@ -17842,7 +17894,7 @@
                                             "Count": 4
                                         }
                                     ],
-                                    "Culture": "None"
+                                    "Culture": "Blank"
                                 }
                             ],
                             "ObjectName": "Etching"
@@ -17856,7 +17908,7 @@
                                             "Count": 3
                                         }
                                     ],
-                                    "Culture": "None"
+                                    "Culture": "Blank"
                                 }
                             ],
                             "ObjectName": "Collection Ornament & Architecture"
@@ -17870,7 +17922,7 @@
                                             "Count": 3
                                         }
                                     ],
-                                    "Culture": "None"
+                                    "Culture": "Blank"
                                 }
                             ],
                             "ObjectName": "Print ; facsimile"
@@ -17884,7 +17936,7 @@
                                             "Count": 2
                                         }
                                     ],
-                                    "Culture": "None"
+                                    "Culture": "Blank"
                                 }
                             ],
                             "ObjectName": "Photograph"
@@ -17898,7 +17950,7 @@
                                             "Count": 2
                                         }
                                     ],
-                                    "Culture": "None"
+                                    "Culture": "Blank"
                                 }
                             ],
                             "ObjectName": "Print, Ornament & Architecture, Fete"
@@ -17912,13 +17964,24 @@
                                             "Count": 2
                                         }
                                     ],
-                                    "Culture": "None"
+                                    "Culture": "Blank"
                                 }
                             ],
                             "ObjectName": "Print ornament & architecture"
                         },
                         {
-                            "ObjectName": NaN
+                            "children": [
+                                {
+                                    "children": [
+                                        {
+                                            "DateRange": "1600-1799",
+                                            "Count": 2
+                                        }
+                                    ],
+                                    "Culture": "Blank"
+                                }
+                            ],
+                            "ObjectName": "Blank"
                         },
                         {
                             "children": [
@@ -17929,7 +17992,7 @@
                                             "Count": 2
                                         }
                                     ],
-                                    "Culture": "None"
+                                    "Culture": "Blank"
                                 }
                             ],
                             "ObjectName": "Portfolio ; print"
@@ -17971,7 +18034,7 @@
                                             "Count": 1
                                         }
                                     ],
-                                    "Culture": "None"
+                                    "Culture": "Blank"
                                 }
                             ],
                             "ObjectName": "Print, portfolio"
@@ -17985,7 +18048,7 @@
                                             "Count": 1
                                         }
                                     ],
-                                    "Culture": "None"
+                                    "Culture": "Blank"
                                 }
                             ],
                             "ObjectName": "Album drawing"
@@ -17999,7 +18062,7 @@
                                             "Count": 1
                                         }
                                     ],
-                                    "Culture": "None"
+                                    "Culture": "Blank"
                                 }
                             ],
                             "ObjectName": "Book ; print"
@@ -18022,7 +18085,7 @@
                                             "Count": 3
                                         }
                                     ],
-                                    "Culture": "None"
+                                    "Culture": "Blank"
                                 }
                             ],
                             "ObjectName": "Print"
@@ -18041,7 +18104,7 @@
                                             "Count": 3
                                         }
                                     ],
-                                    "Culture": "None"
+                                    "Culture": "Blank"
                                 }
                             ],
                             "ObjectName": "Print"
@@ -18060,7 +18123,7 @@
                                             "Count": 1
                                         }
                                     ],
-                                    "Culture": "None"
+                                    "Culture": "Blank"
                                 }
                             ],
                             "ObjectName": "Print"
@@ -18100,7 +18163,7 @@
                                             "Count": 1
                                         }
                                     ],
-                                    "Culture": "None"
+                                    "Culture": "Blank"
                                 }
                             ],
                             "ObjectName": "Fragment"
@@ -18122,7 +18185,7 @@
                                             "Count": 10
                                         }
                                     ],
-                                    "Culture": "None"
+                                    "Culture": "Blank"
                                 }
                             ],
                             "ObjectName": "Bead"
@@ -18148,7 +18211,7 @@
                                             "Count": 1
                                         }
                                     ],
-                                    "Culture": "None"
+                                    "Culture": "Blank"
                                 }
                             ],
                             "ObjectName": "Beads"
@@ -18166,7 +18229,7 @@
                                             "Count": 25
                                         }
                                     ],
-                                    "Culture": "None"
+                                    "Culture": "Blank"
                                 }
                             ],
                             "ObjectName": "Button or bead"
@@ -18180,7 +18243,7 @@
                                             "Count": 26
                                         }
                                     ],
-                                    "Culture": "None"
+                                    "Culture": "Blank"
                                 }
                             ],
                             "ObjectName": "Blade"
@@ -18194,7 +18257,7 @@
                                             "Count": 25
                                         }
                                     ],
-                                    "Culture": "None"
+                                    "Culture": "Blank"
                                 }
                             ],
                             "ObjectName": "bead"
@@ -18262,7 +18325,7 @@
                                             "Count": 18
                                         }
                                     ],
-                                    "Culture": "None"
+                                    "Culture": "Blank"
                                 }
                             ],
                             "ObjectName": "knife, Bifacial Knife"
@@ -18276,7 +18339,7 @@
                                             "Count": 14
                                         }
                                     ],
-                                    "Culture": "None"
+                                    "Culture": "Blank"
                                 }
                             ],
                             "ObjectName": "Scraper"
@@ -18344,7 +18407,7 @@
                                             "Count": 1
                                         }
                                     ],
-                                    "Culture": "None"
+                                    "Culture": "Blank"
                                 }
                             ],
                             "ObjectName": "Panel"
@@ -18358,7 +18421,7 @@
                                             "Count": 10
                                         }
                                     ],
-                                    "Culture": "None"
+                                    "Culture": "Blank"
                                 }
                             ],
                             "ObjectName": "Beads and pendants"
@@ -18376,7 +18439,7 @@
                                             "Count": 7
                                         }
                                     ],
-                                    "Culture": "None"
+                                    "Culture": "Blank"
                                 }
                             ],
                             "ObjectName": "Fragments"
@@ -18390,7 +18453,7 @@
                                             "Count": 8
                                         }
                                     ],
-                                    "Culture": "None"
+                                    "Culture": "Blank"
                                 }
                             ],
                             "ObjectName": "Stone"
@@ -18412,7 +18475,7 @@
                                             "Count": 1
                                         }
                                     ],
-                                    "Culture": "None"
+                                    "Culture": "Blank"
                                 },
                                 {
                                     "children": [
@@ -18452,7 +18515,7 @@
                                             "Count": 2
                                         }
                                     ],
-                                    "Culture": "None"
+                                    "Culture": "Blank"
                                 }
                             ],
                             "ObjectName": "Fragment of a bowl"
@@ -18470,7 +18533,7 @@
                                             "Count": 6
                                         }
                                     ],
-                                    "Culture": "None"
+                                    "Culture": "Blank"
                                 }
                             ],
                             "ObjectName": "Dice"
@@ -18484,7 +18547,7 @@
                                             "Count": 7
                                         }
                                     ],
-                                    "Culture": "None"
+                                    "Culture": "Blank"
                                 }
                             ],
                             "ObjectName": "blade, Retouched blade"
@@ -18502,7 +18565,7 @@
                                             "Count": 3
                                         }
                                     ],
-                                    "Culture": "None"
+                                    "Culture": "Blank"
                                 }
                             ],
                             "ObjectName": "Bottle"
@@ -18524,7 +18587,7 @@
                                             "Count": 2
                                         }
                                     ],
-                                    "Culture": "None"
+                                    "Culture": "Blank"
                                 }
                             ],
                             "ObjectName": "Pendant"
@@ -18538,7 +18601,7 @@
                                             "Count": 6
                                         }
                                     ],
-                                    "Culture": "None"
+                                    "Culture": "Blank"
                                 }
                             ],
                             "ObjectName": "Napkin"
@@ -18598,7 +18661,7 @@
                                             "Count": 1
                                         }
                                     ],
-                                    "Culture": "None"
+                                    "Culture": "Blank"
                                 }
                             ],
                             "ObjectName": "Scarab"
@@ -18664,7 +18727,7 @@
                                             "Count": 4
                                         }
                                     ],
-                                    "Culture": "None"
+                                    "Culture": "Blank"
                                 }
                             ],
                             "ObjectName": "Beads, string"
@@ -18706,7 +18769,7 @@
                                             "Count": 30
                                         }
                                     ],
-                                    "Culture": "None"
+                                    "Culture": "Blank"
                                 },
                                 {
                                     "children": [
@@ -18746,7 +18809,7 @@
                                             "Count": 2
                                         }
                                     ],
-                                    "Culture": "None"
+                                    "Culture": "Blank"
                                 }
                             ],
                             "ObjectName": "Scarab, private"
@@ -18800,7 +18863,7 @@
                                             "Count": 1
                                         }
                                     ],
-                                    "Culture": "None"
+                                    "Culture": "Blank"
                                 }
                             ],
                             "ObjectName": "Necklace, beads"
@@ -18842,7 +18905,7 @@
                                             "Count": 8
                                         }
                                     ],
-                                    "Culture": "None"
+                                    "Culture": "Blank"
                                 },
                                 {
                                     "children": [
@@ -18878,7 +18941,7 @@
                                             "Count": 37
                                         }
                                     ],
-                                    "Culture": "None"
+                                    "Culture": "Blank"
                                 }
                             ],
                             "ObjectName": "unfinished bead; mosaic glass marble"
@@ -18896,7 +18959,7 @@
                                             "Count": 32
                                         }
                                     ],
-                                    "Culture": "None"
+                                    "Culture": "Blank"
                                 }
                             ],
                             "ObjectName": "Bracelet"
@@ -18918,7 +18981,7 @@
                                             "Count": 10
                                         }
                                     ],
-                                    "Culture": "None"
+                                    "Culture": "Blank"
                                 }
                             ],
                             "ObjectName": "Game piece"
@@ -18932,7 +18995,7 @@
                                             "Count": 31
                                         }
                                     ],
-                                    "Culture": "None"
+                                    "Culture": "Blank"
                                 }
                             ],
                             "ObjectName": "falcon amulet"
@@ -18962,7 +19025,7 @@
                                             "Count": 9
                                         }
                                     ],
-                                    "Culture": "None"
+                                    "Culture": "Blank"
                                 }
                             ],
                             "ObjectName": "Amulet, Taweret"
@@ -18976,7 +19039,7 @@
                                             "Count": 27
                                         }
                                     ],
-                                    "Culture": "None"
+                                    "Culture": "Blank"
                                 }
                             ],
                             "ObjectName": "Scarab, Thutmose III"
@@ -19002,7 +19065,7 @@
                                             "Count": 9
                                         }
                                     ],
-                                    "Culture": "None"
+                                    "Culture": "Blank"
                                 }
                             ],
                             "ObjectName": "Amulet, Wedjat eye"
@@ -19041,7 +19104,7 @@
                                             "Count": 1
                                         }
                                     ],
-                                    "Culture": "None"
+                                    "Culture": "Blank"
                                 }
                             ],
                             "ObjectName": "Beads"
@@ -19071,7 +19134,7 @@
                                             "Count": 1
                                         }
                                     ],
-                                    "Culture": "None"
+                                    "Culture": "Blank"
                                 }
                             ],
                             "ObjectName": "Amulet, fish"
@@ -19101,7 +19164,7 @@
                                             "Count": 1
                                         }
                                     ],
-                                    "Culture": "None"
+                                    "Culture": "Blank"
                                 }
                             ],
                             "ObjectName": "Cylinder seal"
@@ -19115,7 +19178,7 @@
                                             "Count": 19
                                         }
                                     ],
-                                    "Culture": "None"
+                                    "Culture": "Blank"
                                 }
                             ],
                             "ObjectName": "Bead, cylinder (dish)"
@@ -19129,7 +19192,7 @@
                                             "Count": 18
                                         }
                                     ],
-                                    "Culture": "None"
+                                    "Culture": "Blank"
                                 }
                             ],
                             "ObjectName": "Game piece, cane disk"
@@ -19151,7 +19214,7 @@
                                             "Count": 5
                                         }
                                     ],
-                                    "Culture": "None"
+                                    "Culture": "Blank"
                                 }
                             ],
                             "ObjectName": "Kohl jar"
@@ -19165,7 +19228,7 @@
                                             "Count": 17
                                         }
                                     ],
-                                    "Culture": "None"
+                                    "Culture": "Blank"
                                 }
                             ],
                             "ObjectName": "Ring, Akhenaten"
@@ -19205,7 +19268,7 @@
                                             "Count": 276
                                         }
                                     ],
-                                    "Culture": "None"
+                                    "Culture": "Blank"
                                 },
                                 {
                                     "children": [
@@ -19609,7 +19672,7 @@
                                             "Count": 1
                                         }
                                     ],
-                                    "Culture": "None"
+                                    "Culture": "Blank"
                                 },
                                 {
                                     "children": [
@@ -19723,7 +19786,7 @@
                                             "Count": 117
                                         }
                                     ],
-                                    "Culture": "None"
+                                    "Culture": "Blank"
                                 },
                                 {
                                     "children": [
@@ -19932,7 +19995,7 @@
                                             "Count": 1
                                         }
                                     ],
-                                    "Culture": "None"
+                                    "Culture": "Blank"
                                 },
                                 {
                                     "children": [
@@ -20049,7 +20112,7 @@
                                             "Count": 1
                                         }
                                     ],
-                                    "Culture": "None"
+                                    "Culture": "Blank"
                                 },
                                 {
                                     "children": [
@@ -20210,7 +20273,7 @@
                                             "Count": 1
                                         }
                                     ],
-                                    "Culture": "None"
+                                    "Culture": "Blank"
                                 },
                                 {
                                     "children": [
@@ -20437,7 +20500,7 @@
                                             "Count": 1
                                         }
                                     ],
-                                    "Culture": "None"
+                                    "Culture": "Blank"
                                 },
                                 {
                                     "children": [
@@ -20481,7 +20544,7 @@
                                             "Count": 4
                                         }
                                     ],
-                                    "Culture": "None"
+                                    "Culture": "Blank"
                                 },
                                 {
                                     "children": [
@@ -20642,7 +20705,7 @@
                                             "Count": 18
                                         }
                                     ],
-                                    "Culture": "None"
+                                    "Culture": "Blank"
                                 },
                                 {
                                     "children": [
@@ -20808,7 +20871,7 @@
                                             "Count": 1
                                         }
                                     ],
-                                    "Culture": "None"
+                                    "Culture": "Blank"
                                 },
                                 {
                                     "children": [
@@ -21060,7 +21123,7 @@
                                             "Count": 2
                                         }
                                     ],
-                                    "Culture": "None"
+                                    "Culture": "Blank"
                                 },
                                 {
                                     "children": [
@@ -21159,7 +21222,7 @@
                                             "Count": 2
                                         }
                                     ],
-                                    "Culture": "None"
+                                    "Culture": "Blank"
                                 },
                                 {
                                     "children": [
@@ -21552,7 +21615,7 @@
                                             "Count": 6
                                         }
                                     ],
-                                    "Culture": "None"
+                                    "Culture": "Blank"
                                 },
                                 {
                                     "children": [
@@ -21656,7 +21719,7 @@
                                             "Count": 849
                                         }
                                     ],
-                                    "Culture": "None"
+                                    "Culture": "Blank"
                                 }
                             ],
                             "ObjectName": "Jar Label"
@@ -21678,7 +21741,7 @@
                                             "Count": 147
                                         }
                                     ],
-                                    "Culture": "None"
+                                    "Culture": "Blank"
                                 },
                                 {
                                     "children": [
@@ -21705,7 +21768,7 @@
                                             "Count": 141
                                         }
                                     ],
-                                    "Culture": "None"
+                                    "Culture": "Blank"
                                 }
                             ],
                             "ObjectName": "Jar Label, meat"
@@ -21719,7 +21782,7 @@
                                             "Count": 67
                                         }
                                     ],
-                                    "Culture": "None"
+                                    "Culture": "Blank"
                                 }
                             ],
                             "ObjectName": "Jar label, srmt db\u1e25w, ale"
@@ -21797,7 +21860,7 @@
                                             "Count": 43
                                         }
                                     ],
-                                    "Culture": "None"
+                                    "Culture": "Blank"
                                 }
                             ],
                             "ObjectName": "Jar Label, wine"
@@ -21811,7 +21874,7 @@
                                             "Count": 40
                                         }
                                     ],
-                                    "Culture": "None"
+                                    "Culture": "Blank"
                                 }
                             ],
                             "ObjectName": "Jar Label, meat, untyped"
@@ -21825,7 +21888,7 @@
                                             "Count": 35
                                         }
                                     ],
-                                    "Culture": "None"
+                                    "Culture": "Blank"
                                 }
                             ],
                             "ObjectName": "Jar Label, fat"
@@ -21839,7 +21902,7 @@
                                             "Count": 26
                                         }
                                     ],
-                                    "Culture": "None"
+                                    "Culture": "Blank"
                                 }
                             ],
                             "ObjectName": "Jar Label, Meat"
@@ -21853,7 +21916,7 @@
                                             "Count": 22
                                         }
                                     ],
-                                    "Culture": "None"
+                                    "Culture": "Blank"
                                 }
                             ],
                             "ObjectName": "Jar Label, wine, irp"
@@ -22012,7 +22075,7 @@
                                             "Count": 13
                                         }
                                     ],
-                                    "Culture": "None"
+                                    "Culture": "Blank"
                                 }
                             ],
                             "ObjectName": "Jar label, meat, untyped"
@@ -22047,7 +22110,7 @@
                                             "Count": 2
                                         }
                                     ],
-                                    "Culture": "None"
+                                    "Culture": "Blank"
                                 },
                                 {
                                     "children": [
@@ -22070,7 +22133,7 @@
                                             "Count": 12
                                         }
                                     ],
-                                    "Culture": "None"
+                                    "Culture": "Blank"
                                 }
                             ],
                             "ObjectName": "Jar Label, bak oil"
@@ -22110,7 +22173,7 @@
                                             "Count": 1
                                         }
                                     ],
-                                    "Culture": "None"
+                                    "Culture": "Blank"
                                 }
                             ],
                             "ObjectName": "Vase"
@@ -22244,7 +22307,7 @@
                                             "Count": 1
                                         }
                                     ],
-                                    "Culture": "None"
+                                    "Culture": "Blank"
                                 }
                             ],
                             "ObjectName": "Jar, strap handles"
@@ -22258,7 +22321,7 @@
                                             "Count": 1
                                         }
                                     ],
-                                    "Culture": "None"
+                                    "Culture": "Blank"
                                 }
                             ],
                             "ObjectName": "Jar Lid"
@@ -22277,7 +22340,7 @@
                                             "Count": 1
                                         }
                                     ],
-                                    "Culture": "None"
+                                    "Culture": "Blank"
                                 }
                             ],
                             "ObjectName": "Print"
@@ -22296,7 +22359,7 @@
                                             "Count": 1
                                         }
                                     ],
-                                    "Culture": "None"
+                                    "Culture": "Blank"
                                 }
                             ],
                             "ObjectName": "Plate"
