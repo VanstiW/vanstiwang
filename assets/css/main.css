@@ -655,6 +655,10 @@ body {
     content: "06"
 }
 
+.side-nav li:nth-child(7)::before {
+    content: "07"
+}
+
 .side-nav li.is-active {
     color: #e4002b;
     -webkit-transition: color .4s ease-in-out;

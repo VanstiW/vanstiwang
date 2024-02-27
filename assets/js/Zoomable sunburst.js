@@ -1,5 +1,5 @@
 // 使用 d3.json 异步加载 JSON 数据
-d3.json("assets/js/Sunburst_Donor.json").then(data => {
+d3.json("assets/js/Donor_1_Zoommap.json").then(data => {
 
     // 图形的配置和创建过程
     const width = 928;
