@@ -1156,35 +1156,22 @@ body {
     height: 475px
 }
 
-/* .about--banner::before{
-    content:"";
-    position:absolute;
-    top:20px;
-    left:200px;
-    -webkit-transform:rotate(-25deg);
-    transform:rotate(-25deg);
-    border:5px solid #e4002b;
-    border-right-color:transparent;
-    border-bottom-color:transparent
-}
-.about--banner::after{
-    content:"";
-    position:absolute;
-    top:75px;
-    left:400px;
-    -webkit-transform:rotate(45deg);
-    transform:rotate(45deg);
-    width:10px;
-    height:10px;
-    background-color:#e4002b
+/* .about--banner #myCanvas {
+    position: absolute;
+    bottom: -40px;
+    right: -12px;
+    width: 930px;
+    height: 400px; 
+    z-index: -1;
 } */
+
 .about--banner h2 {
     position: relative;
 
     font-size: 68px;
     font-weight: 900;
     line-height: 1;
-    z-index: 1
+    z-index: 2;
 }
 
 .right-aligned {
@@ -1199,32 +1186,14 @@ body {
     margin-top: 35px;
 }
 
-/* .about--banner h2::before{
-    content:"";
-    position:absolute;
-    top:60px;
-    left:268px;
-    width:30px;
-    height:30px;
-    background-color:#e4002b;
-    border-radius:50%
-}
-.about--banner h2::after{
-    content:"";
-    position:absolute;
-    top:255px;
-    left:255px;
-    width:10px;
-    height:10px;
-    background-color:#e4002b
-} */
 .about--banner a {
     padding: 5px 17px 5px 0;
     text-decoration: none;
     color: #fff;
     font-weight: 700;
     text-transform: uppercase;
-    background-color: transparent
+    background-color: transparent;
+    z-index: 1;
 }
 
 .about--banner a:hover svg {
@@ -1243,6 +1212,7 @@ body {
 .about--banner img {
     position: absolute;
     bottom: -40px;
+    z-index: -1;
 }
 
 .about--options {
@@ -1968,4 +1938,15 @@ body {
 .outer-nav li.is-vis:nth-child(5) {
     -webkit-transition-delay: .16s;
     transition-delay: .16s
+}
+
+.Sunmap {
+    position: absolute;
+    top: 12px;
+    left: 12px;
+    display: flex;
+    width: 100%;
+    align-items: center;
+    justify-content: space-between;
+    z-index: 10
 }

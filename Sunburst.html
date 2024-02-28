@@ -3,13 +3,23 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Zoomable treemap of The Met</title>
-    <!-- <link rel="stylesheet" href="assets/css/main.css"> -->
+    <title>Zoomable treemap of Donor</title>
+    <!-- <link rel="stylesheet" href="assets/css/donor.css"> -->
     <script src="https://d3js.org/d3.v6.min.js"></script>
 </head>
 
 <body>
     <div id="sunmap"></div>
-    <script src="assets/js/Zoomable sunburst.js"></script>
+    <script>
+        // 解析URL参数
+        const params = new URLSearchParams(window.location.search);
+        const donor = params.get('donor'); // 获取donor的值
+        
+        // 动态设置脚本引用
+        const script = document.createElement('script');
+        script.src = `assets/js/Zoomable sunburst.js?donor=${donor}`;
+        document.body.appendChild(script);
+        </script>
+
 </body>
 </html>

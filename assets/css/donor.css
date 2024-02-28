@@ -1,15 +1,5 @@
-/* style.css */
-#map-container {
-    height: 300px; /* 根据需要调整 */
-    background-color: #f0f0f0;
-}
-
-#bubbles-container {
-    height: 400px; /* 根据需要调整 */
-    position: relative;
-}
-
-#timeline-container {
-    height: 100px; /* 根据需要调整 */
-    background-color: #f0f0f0;
+.sunmap {
+    width:800px; /* 调整为期望的宽度 */
+    height: 800px; /* 调整为期望的高度 */
+    margin: auto; /* 可选，居中显示 */
 }
