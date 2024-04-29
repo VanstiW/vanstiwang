@@ -2694,7 +2694,7 @@ p {
     -webkit-flex-direction: column;
     -ms-flex-direction: column;
     flex-direction: column;
-    border-radius: 5px;
+    border-radius: 10px;
     
     /* background-color: #ff6565; */
     background-image: url('assets/img/Card-1.png');
@@ -2709,7 +2709,8 @@ p {
 }
 
 ._w-card-front.fb {
-    background-color: #6670bd;
+    /* background-color: #6670bd; */
+    background-color: #ffffff;
 }
 
 ._w-card-front.tw {
