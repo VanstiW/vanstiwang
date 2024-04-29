@@ -2695,7 +2695,13 @@ p {
     -ms-flex-direction: column;
     flex-direction: column;
     border-radius: 5px;
-    background-color: #ff6565;
+    
+    /* background-color: #ff6565; */
+    background-image: url('assets/img/Card-1.png');
+    background-size: cover; /* 或者可以使用 contain 根据需求调整 */
+    background-position: center; /* 背景图片居中显示 */
+    background-repeat: no-repeat; /* 防止背景图片重复 */
+    
     -webkit-perspective: 1000px;
     perspective: 1000px;
     -webkit-transform: perspective(0px);
