@@ -2697,10 +2697,11 @@ p {
     border-radius: 10px;
     
     /* background-color: #ff6565; */
-    background-image: url('assets/img/Card-1.png');
-    background-size: cover; /* 或者可以使用 contain 根据需求调整 */
-    background-position: center; /* 背景图片居中显示 */
-    background-repeat: no-repeat; /* 防止背景图片重复 */
+    background-image: url('../img/Card-1.png');
+    background-size: 100% auto;  /* 设置宽度为100%，高度自动调整以保持图片比例 */
+    background-position: top center;  /* 将图片顶端对齐到容器的顶部，并水平居中对齐 */
+    background-repeat: no-repeat;  /* 避免图片重复 */
+    
     
     -webkit-perspective: 1000px;
     perspective: 1000px;
@@ -2894,7 +2895,14 @@ p {
     -ms-flex-direction: column;
     flex-direction: column;
     border-radius: 5px;
-    background-color: #333;
+    /* background-color: #333; */
+
+    background-image: url('../img/Card-02.png');
+    background-size: 100% auto;  /* 设置宽度为100%，高度自动调整以保持图片比例 */
+    background-position: top center;  /* 将图片顶端对齐到容器的顶部，并水平居中对齐 */
+    background-repeat: no-repeat;  /* 避免图片重复 */
+    
+
     -webkit-perspective: 1000px;
     perspective: 1000px;
 }
