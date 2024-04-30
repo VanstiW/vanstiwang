@@ -32,7 +32,7 @@
             .attr("height", 900)
             .style("font", "12px sans-serif")
             .style("font-weight", "bold")
-            .style("background", "rgb(21, 21, 21)");
+            .style("background", "black");
 
 
         const centerText = svg.append("text")
