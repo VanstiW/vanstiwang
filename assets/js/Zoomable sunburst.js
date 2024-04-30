@@ -32,13 +32,12 @@
             .attr("height", 900)
             .style("font", "13px sans-serif")
             .style("font-weight", "bold")
-            .style("color", "white")
             .style("background", "rgb(21, 21, 21)");
 
 
         const centerText = svg.append("text")
             .attr("text-anchor", "middle")
-            .style("font-size", "15px") // 可以根据需要调整字体大小
+            .style("font-size", "25px") // 可以根据需要调整字体大小
             .style("fill", "white")
             .style("font-weight", "bold")
             .attr("dy", "0.35em"); // 调整文本位置，使其垂直居中
