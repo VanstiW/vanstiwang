@@ -2697,7 +2697,7 @@ p {
     border-radius: 10px;
     
     /* background-color: #ff6565; */
-    background-image: url('../img/Card-1.png');
+    background-image: url('../img/Card/card_01.png');
     background-size: 100% auto;  /* 设置宽度为100%，高度自动调整以保持图片比例 */
     background-position: top center;  /* 将图片顶端对齐到容器的顶部，并水平居中对齐 */
     background-repeat: no-repeat;  /* 避免图片重复 */
@@ -2710,32 +2710,145 @@ p {
 }
 
 ._w-card-front.a02 {
-    background-image: url('../img/Card-1.png');
+    background-image: url('../img/Card/card-09.png');
 }
 
 ._w-card-front.a03 {
-    background-image: url('../img/Card-1.png');
+    background-image: url('../img/Card/card-23.png');
 }
 
 ._w-card-front.a04 {
-    background-image: url('../img/Card-1.png');
+    background-image: url('../img/Card/card-29.png');
 }
 
 ._w-card-front.a05 {
-    background-image: url('../img/Card-1.png');
+    background-image: url('../img/Card/card-35.png');
 }
 
 ._w-card-front.a06 {
-    background-image: url('../img/Card-1.png');
+    background-image: url('../img/Card/card-43.png');
 }
 
 ._w-card-front.a07 {
-    background-image: url('../img/Card-1.png');
+    background-image: url('../img/Card/card-57.png');
 }
 
 ._w-card-front.a08 {
-    background-image: url('../img/Card-1.png');
+    background-image: url('../img/Card/card-65.png');
 }
+
+._w-card-front.a09 {
+    background-image: url('../img/Card/card-03.png');
+}
+
+._w-card-front.a10 {
+    background-image: url('../img/Card/card-11.png');
+}
+
+._w-card-front.a11 {
+    background-image: url('../img/Card/card-25.png');
+}
+
+._w-card-front.a12 {
+    background-image: url('../img/Card/card-31.png');
+}
+
+._w-card-front.a13 {
+    background-image: url('../img/Card/card-37.png');
+}
+
+._w-card-front.a14 {
+    background-image: url('../img/Card/card-45.png');
+}
+
+._w-card-front.a15 {
+    background-image: url('../img/Card/card-59.png');
+}
+
+._w-card-front.a16 {
+    background-image: url('../img/Card/card-67.png');
+}
+
+._w-card-front.a17 {
+    background-image: url('../img/Card/card-05.png');
+}
+
+._w-card-front.a18 {
+    background-image: url('../img/Card/card-13.png');
+}
+
+._w-card-front.a19 {
+    background-image: url('../img/Card/card-27.png');
+}
+
+._w-card-front.a20 {
+    background-image: url('../img/Card/card-33.png');
+}
+
+._w-card-front.a21 {
+    background-image: url('../img/Card/card-39.png');
+}
+
+._w-card-front.a22 {
+    background-image: url('../img/Card/card-47.png');
+}
+
+._w-card-front.a23 {
+    background-image: url('../img/Card/card-61.png');
+}
+
+._w-card-front.a24 {
+    background-image: url('../img/Card/card-17.png');
+}
+
+._w-card-front.a25 {
+    background-image: url('../img/Card/card-07.png');
+}
+
+._w-card-front.a26 {
+    background-image: url('../img/Card/card-15.png');
+}
+
+._w-card-front.a27 {
+    background-image: url('../img/Card/card-41.png');
+}
+
+._w-card-front.a28 {
+    background-image: url('../img/Card/card-49.png');
+}
+
+._w-card-front.a29 {
+    background-image: url('../img/Card/card-63.png');
+}
+
+._w-card-front.a30 {
+    background-image: url('../img/Card/card-69.png');
+}
+
+._w-card-front.a31 {
+    background-image: url('../img/Card/card-51.png');
+}
+
+._w-card-front.a32 {
+    background-image: url('../img/Card/card-19.png');
+}
+
+._w-card-front.a33 {
+    background-image: url('../img/Card/card-21.png');
+}
+
+._w-card-front.a34 {
+    background-image: url('../img/Card/card-53.png');
+}
+
+._w-card-front.a35 {
+    background-image: url('../img/Card/card-71.png');
+}
+
+._w-card-front.a36 {
+    background-image: url('../img/Card/card-55.png');
+}
+
 
 .c-card-no {
     position: relative;
@@ -2907,31 +3020,143 @@ p {
 }
 
 ._w-card-back.a02 {
-    background-image: url('../img/Card-02.png');
+    background-image: url('../img/Card/card-10.png');
 }
 
 ._w-card-back.a03 {
-    background-image: url('../img/Card-02.png');
+    background-image: url('../img/Card/card-24.png');
 }
 
 ._w-card-back.a04 {
-    background-image: url('../img/Card-02.png');
+    background-image: url('../img/Card/card-30.png');
 }
 
 ._w-card-back.a05 {
-    background-image: url('../img/Card-02.png');
+    background-image: url('../img/Card/card-36.png');
 }
 
 ._w-card-back.a06 {
-    background-image: url('../img/Card-02.png');
+    background-image: url('../img/Card/card-44.png');
 }
 
 ._w-card-back.a07 {
-    background-image: url('../img/Card-02.png');
+    background-image: url('../img/Card/card-58.png');
 }
 
 ._w-card-back.a08 {
-    background-image: url('../img/Card-02.png');
+    background-image: url('../img/Card/card-66.png');
+}
+
+._w-card-back.a09 {
+    background-image: url('../img/Card/card-04.png');
+}
+
+._w-card-back.a10 {
+    background-image: url('../img/Card/card-12.png');
+}
+
+._w-card-back.a11 {
+    background-image: url('../img/Card/card-26.png');
+}
+
+._w-card-back.a12 {
+    background-image: url('../img/Card/card-32.png');
+}
+
+._w-card-back.a13 {
+    background-image: url('../img/Card/card-38.png');
+}
+
+._w-card-back.a14 {
+    background-image: url('../img/Card/card-46.png');
+}
+
+._w-card-back.a15 {
+    background-image: url('../img/Card/card-60.png');
+}
+
+._w-card-back.a16 {
+    background-image: url('../img/Card/card-68.png');
+}
+
+._w-card-back.a17 {
+    background-image: url('../img/Card/card-06.png');
+}
+
+._w-card-back.a18 {
+    background-image: url('../img/Card/card-14.png');
+}
+
+._w-card-back.a19 {
+    background-image: url('../img/Card/card-28.png');
+}
+
+._w-card-back.a20 {
+    background-image: url('../img/Card/card-34.png');
+}
+
+._w-card-back.a21 {
+    background-image: url('../img/Card/card-40.png');
+}
+
+._w-card-back.a22 {
+    background-image: url('../img/Card/card-48.png');
+}
+
+._w-card-back.a23 {
+    background-image: url('../img/Card/card-62.png');
+}
+
+._w-card-back.a24 {
+    background-image: url('../img/Card/card-18.png');
+}
+
+._w-card-back.a25 {
+    background-image: url('../img/Card/card-08.png');
+}
+
+._w-card-back.a26 {
+    background-image: url('../img/Card/card-16.png');
+}
+
+._w-card-back.a27 {
+    background-image: url('../img/Card/card-42.png');
+}
+
+._w-card-back.a28 {
+    background-image: url('../img/Card/card-50.png');
+}
+
+._w-card-back.a29 {
+    background-image: url('../img/Card/card-64.png');
+}
+
+._w-card-back.a30 {
+    background-image: url('../img/Card/card-70.png');
+}
+
+._w-card-back.a31 {
+    background-image: url('../img/Card/card-52.png');
+}
+
+._w-card-back.a32 {
+    background-image: url('../img/Card/card-20.png');
+}
+
+._w-card-back.a33 {
+    background-image: url('../img/Card/card-22.png');
+}
+
+._w-card-back.a34 {
+    background-image: url('../img/Card/card-54.png');
+}
+
+._w-card-back.a35 {
+    background-image: url('../img/Card/card-72.png');
+}
+
+._w-card-back.a36 {
+    background-image: url('../img/Card/card-56.png');
 }
 
 .c-card-quote {
