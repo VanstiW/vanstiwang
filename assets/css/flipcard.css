@@ -279,7 +279,7 @@ html {
 body {
     margin: 0;
     min-height: 100%;
-    background-color: #fff;
+    background-color: rgb(21, 21, 21);
     font-family: Arial, sans-serif;
     font-size: 14px;
     line-height: 20px;
@@ -2668,7 +2668,7 @@ p {
     display: -ms-flexbox;
     display: flex;
     width: 250px;
-    height: 450px;
+    height: 350px;
     -webkit-box-pack: center;
     -webkit-justify-content: center;
     -ms-flex-pack: center;
@@ -2709,33 +2709,32 @@ p {
     transform: perspective(0px);
 }
 
-._w-card-front.fb {
-    /* background-color: #6670bd; */
-    background-color: #ffffff;
+._w-card-front.a02 {
+    background-image: url('../img/Card-1.png');
 }
 
-._w-card-front.tw {
-    background-color: #8ca7ff;
+._w-card-front.a03 {
+    background-image: url('../img/Card-1.png');
 }
 
-._w-card-front.ig {
-    background-image: linear-gradient(45deg, #ffce8a, #fc91d8 50%, #ba68f5);
+._w-card-front.a04 {
+    background-image: url('../img/Card-1.png');
 }
 
-._w-card-front.ln {
-    background-color: #3c9ea5;
+._w-card-front.a05 {
+    background-image: url('../img/Card-1.png');
 }
 
-._w-card-front.wf {
-    background-color: #333;
+._w-card-front.a06 {
+    background-image: url('../img/Card-1.png');
 }
 
-._w-card-front.bc {
-    background-color: #e6b362;
+._w-card-front.a07 {
+    background-image: url('../img/Card-1.png');
 }
 
-._w-card-front.sl {
-    background-image: linear-gradient(45deg, #219fa3, #333);
+._w-card-front.a08 {
+    background-image: url('../img/Card-1.png');
 }
 
 .c-card-no {
@@ -2857,7 +2856,7 @@ p {
 .c-card-back {
     display: none;
     width: 250px;
-    height: 450px;
+    height: 350px;
     -webkit-box-pack: center;
     -webkit-justify-content: center;
     -ms-flex-pack: center;
@@ -2894,7 +2893,7 @@ p {
     -webkit-flex-direction: column;
     -ms-flex-direction: column;
     flex-direction: column;
-    border-radius: 5px;
+    border-radius: 10px;
     /* background-color: #333; */
 
     background-image: url('../img/Card-02.png');
@@ -2905,6 +2904,34 @@ p {
 
     -webkit-perspective: 1000px;
     perspective: 1000px;
+}
+
+._w-card-back.a02 {
+    background-image: url('../img/Card-02.png');
+}
+
+._w-card-back.a03 {
+    background-image: url('../img/Card-02.png');
+}
+
+._w-card-back.a04 {
+    background-image: url('../img/Card-02.png');
+}
+
+._w-card-back.a05 {
+    background-image: url('../img/Card-02.png');
+}
+
+._w-card-back.a06 {
+    background-image: url('../img/Card-02.png');
+}
+
+._w-card-back.a07 {
+    background-image: url('../img/Card-02.png');
+}
+
+._w-card-back.a08 {
+    background-image: url('../img/Card-02.png');
 }
 
 .c-card-quote {
@@ -2930,9 +2957,11 @@ p {
 
 .c-card-btn {
     padding: 20px;
+    transform: scale(0.6); /* 缩小到原来的50% */
+    margin-top: 220px; /* 往下挪动100px */
 }
 
-._w-card-quote {
+/* ._w-card-quote {
     position: relative;
 }
 
@@ -2974,7 +3003,7 @@ p {
     font-family: 'PT Sans', sans-serif;
     font-size: 5em;
     line-height: 1em;
-}
+} */
 
 .card-btn-link {
     position: relative;
@@ -2982,14 +3011,14 @@ p {
     width: 100%;
     border-style: solid;
     border-width: 2px;
-    border-color: #ff6565;
+    border-color: #a11111;
     border-radius: 1000px;
-    color: #fff;
+    color: #a11111;
     text-align: center;
     text-decoration: none;
 }
 
-.card-btn-link.fb {
+/* .card-btn-link.fb {
     border-color: #6670bd;
 }
 
@@ -3015,7 +3044,7 @@ p {
 
 .card-btn-link.sl {
     border-color: #219fa3;
-}
+} */
 
 .card-text.focus {
     position: relative;
@@ -3030,9 +3059,10 @@ p {
 .c-card-btn-text.focus {
     position: absolute;
     overflow: hidden;
-    background-color: #ff6565;
+    background-color: #a11111;
+    color: #ffffff;
 }
-
+/* 
 .c-card-btn-text.focus.fb {
     background-color: #6670bd;
 }
@@ -3059,7 +3089,7 @@ p {
 
 .c-card-btn-text.focus.sl {
     background-color: #333;
-}
+} */
 
 .card-btn-focus-bg {
     position: absolute;
@@ -3069,9 +3099,9 @@ p {
     bottom: auto;
     width: 75%;
     height: 200%;
-    background-image: radial-gradient(circle farthest-side at 50% 50%, #ff9865, hsla(0, 0%, 100%, 0));
+    background-image: radial-gradient(circle farthest-side at 50% 50%, #a11111, hsla(0, 0%, 100%, 0));
 }
-
+/* 
 .card-btn-focus-bg.fb {
     background-image: radial-gradient(circle farthest-side at 50% 50%, #52a0ce, hsla(0, 0%, 100%, 0));
 }
@@ -3098,7 +3128,7 @@ p {
 
 .card-btn-focus-bg.sl {
     background-image: radial-gradient(circle farthest-side at 50% 50%, #219fa3, hsla(0, 0%, 100%, 0));
-}
+} */
 
 .c-card-shadow {
     position: absolute;
