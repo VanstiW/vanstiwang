@@ -38,8 +38,8 @@
 
         const centerText = svg.append("text")
             .attr("text-anchor", "middle")
-            .style("font-size", "14px") // 可以根据需要调整字体大小
-            .style("color", "white")
+            .style("font-size", "15px") // 可以根据需要调整字体大小
+            .style("fill", "white")
             .style("font-weight", "bold")
             .attr("dy", "0.35em"); // 调整文本位置，使其垂直居中
 
@@ -140,6 +140,7 @@
             .attr("dy", "0.35em")
             .attr("fill-opacity", d => +labelVisible(d.current))
             .attr("transform", d => labelTransform(d.current))
+            .style("fill", "white")
             .text(d => d.data.name);
 
         const parent = svg.append("circle")
